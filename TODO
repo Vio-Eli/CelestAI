@@ -1,0 +1,5 @@
+TODO:
+
+Fix TTS (timeout? problem. stops after punctuation in phrase, leading to speech overlap in next command)
+
+Finish scheduling module
