@@ -1,4 +1,14 @@
 CelestAI
+Requires Python 3.6
 
 Still in Progress. Consult TODO on some things that need to be fixed.
 Also, Moar Modules in need.
+
+Dependencies:
+-Pocketsphinx (SWIG required in your PATH during installation)
+-SpeechRecognition
+-Pyglet (AVBin required)
+-PyAudio
+-gTTS
+-PyYAML
+-Selenium
